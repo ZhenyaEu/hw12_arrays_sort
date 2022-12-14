@@ -1,1 +1,0 @@
-# hw12_arrays_sort
